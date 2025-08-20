@@ -29,7 +29,6 @@ Contributions to enhance the functionality or performance of the **NetherNodes P
 (c) 2025 Dev and contributors. This software is licensed under the MIT License.
 
 ## Credits
-SRYDEN Skyport
-Tyrex Labs
+SRYDEN Skyport, Tyrex Labs
 - Thanks ether, achul123, privt, hopingboyz
 - Made by Dev
